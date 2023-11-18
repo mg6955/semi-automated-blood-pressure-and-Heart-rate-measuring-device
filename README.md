@@ -12,9 +12,7 @@
 	6. C++ editor -Visual Studio Code, Platform IO , HAL -mBed
 
 **Setup:**
-
-	The outlet of the sphygmomanometer tube is connected to the pressure sensor via a tubing and sealed properly using a sealant.
-	The sensor is connected to the microcontroller for I2C communication in the following way.
+	The outlet of the sphygmomanometer tube is connected to the pressure sensor via a tubing and sealed properly using a sealant. The sensor is connected to the microcontroller for I2C communication in the following way.
 
 **Connection:**
 	Sensor
